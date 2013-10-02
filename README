@@ -1,0 +1,3 @@
+The small library for django that add a EAV (Entity/Attribute/Value) models and
+some classes that helps to populate a basic structure from a Python code. EAV
+code is pretty close to django's models.
