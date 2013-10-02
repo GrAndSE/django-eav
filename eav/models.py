@@ -12,7 +12,7 @@ class Entity(models.Model):
                                verbose_name=_('parent'))
 
 
-class Attribute(models.Models):
+class Attribute(models.Model):
     '''Represents an entity's attribute description.
     '''
     TYPES = (

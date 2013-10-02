@@ -1,3 +1,6 @@
 env*
 *.pyc
 *~
+test
+manage.py
+project
